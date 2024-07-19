@@ -1,0 +1,80 @@
+{
+  "animes": [
+    {
+      "id": 1,
+      "title": "One Piece",
+      "genere": "Shonen",
+      "studioId": 1
+    },
+    {
+      "id": 2,
+      "title": "Princesa Mononoke",
+      "genere": "Fantasia",
+      "studioId": 2
+    },
+    {
+      "id": 3,
+      "title": "Dragon Ball Super",
+      "genere": "Shonen",
+      "studioId": 1
+    }
+  ],
+  "studioAnime": [
+    {
+      "id": 1,
+      "name": "Toei Animation"
+    },
+    {
+      "id": 2,
+      "name": "Super Ghibli"
+    }
+  ],
+  "directors": [
+    {
+      "id": 2,
+      "name": "Yeyo Spinetta"
+    }
+  ],
+  "characters": [
+    {
+      "id": 1,
+      "name": "Monkey D Luffy"
+    },
+    {
+      "id": 2,
+      "name": "Roronoa Zoro"
+    },
+    {
+      "id": 3,
+      "name": "Vismoke Sanji"
+    },
+    {
+      "id": 4,
+      "name": "Jinbe"
+    },
+    {
+      "id": 5,
+      "name": "Nami"
+    },
+    {
+      "id": 6,
+      "name": "Tony Tony Chopper"
+    },
+    {
+      "id": 7,
+      "name": "God Ussop"
+    },
+    {
+      "id": 8,
+      "name": "Nico Robin"
+    },
+    {
+      "id": 9,
+      "name": "Brook"
+    },
+    {
+      "id": 10,
+      "name": "Franky"
+    }
+  ]
+}
